@@ -1,0 +1,6 @@
+framework module Pods_ChatChatChat {
+  umbrella header "Pods-ChatChatChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
